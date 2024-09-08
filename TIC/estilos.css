@@ -1,0 +1,45 @@
+* {
+
+    margin: 0cm;
+    padding: 0cm;
+    font-style: serif;
+}
+
+header {background-color: 	#686b7a;}
+h1 {  font-family: 'Franklin Gothic Medium' -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    color: black;
+text-align: center;
+font-size: 2.5rem;}
+
+h2 {color: black;
+    font-family: Helvetica;
+    text-align: center ;
+font-size: 1.2rem; }
+
+body {background-color:#ceceda;}
+
+footer {background-color: 				#686b7a;
+padding: 0%;}
+h3 {color: #252525;
+    font-family: Helvetica;
+    text-align: center ;
+font-size: 1rem; }
+
+table {
+    margin: 100px, 20px, 50px;
+    padding: 100px;}
+ 
+ 
+ .fcc-btn {
+    background-color: #a06f6f;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 50px 100px;
+
+}
+
+.recoletabody {
+    background-color: cadetblue;
+}
+
